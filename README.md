@@ -1,3 +1,3 @@
-# isabellaoliveira_rm83588
+# Aplicativo cidades turisticas
 
-<img src="assets/fotos/Main" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/Main.png" alt="My cool logo" width="250px"/>
