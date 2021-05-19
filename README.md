@@ -1,4 +1,4 @@
-# Aplicativo cidades turisticas
+# Aplicativo Cidades Turísticas
 
 <div>
 <img src="assets/fotos/Main.PNG" alt="My cool logo" width="250px"/>
