@@ -1,11 +1,11 @@
 # Aplicativo Cidades Turísticas
 
 <div>
-<img src="assets/fotos/Main.PNG" alt="My cool logo" width="250px"/>
-<img src="assets/fotos/saoPaulo.PNG" alt="My cool logo" width="250px"/>
-<img src="assets/fotos/salvador.PNG" alt="My cool logo" width="250px"/>
-<img src="assets/fotos/gramado.PNG" alt="My cool logo" width="250px"/>
-<img src="assets/fotos/niteroi.PNG" alt="My cool logo" width="250px"/>
-<img src="assets/fotos/holambra.PNG" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/Main.jpeg" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/saoPaulo.jpeg" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/salvador.jpeg" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/gramado.jpeg" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/niteroi.jpeg" alt="My cool logo" width="250px"/>
+<img src="assets/fotos/holambra.jpeg" alt="My cool logo" width="250px"/>
 </div>
 
